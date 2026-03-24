@@ -1,12 +1,12 @@
-# Hi, I'm Bhavya Goyal 👋
+# Hi, I'm Bhavya Goyal
 
 CS undergrad @ UPES Dehradun · Full-Stack Developer · 500+ DSA problems solved
 
 ---
 
-🔭 Building with **MERN Stack**, **WebRTC**, and **Socket.IO**  
-🌱 Currently exploring AI integrations and real-time systems  
-📫 Reach me at **bhavyagoyal30122005@gmail.com**
+Building with **MERN Stack**, **WebRTC**, and **Socket.IO**  
+Currently exploring AI integrations and real-time systems  
+Reach me at **bhavyagoyal30122005@gmail.com**
 
 ---
 
