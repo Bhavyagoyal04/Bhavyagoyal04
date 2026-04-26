@@ -1,15 +1,10 @@
 # Hi, I'm Bhavya Goyal
-
 CS undergrad @ UPES Dehradun · Full-Stack Developer · 500+ DSA problems solved
-
 ---
-
-Building with **MERN Stack**, **WebRTC**, and **Socket.IO**  
+Building with **MERN Stack**, **WebRTC**, and **[Socket.IO](http://Socket.IO)**  
 Currently exploring AI integrations and real-time systems  
-Reach me at **bhavyagoyal30122005@gmail.com**
-
+Reach me at **[bhavyagoyal30122005@gmail.com](mailto:bhavyagoyal30122005@gmail.com)**
 ---
-
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -30,6 +25,8 @@ Reach me at **bhavyagoyal30122005@gmail.com**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Stream](https://img.shields.io/badge/Stream-005FFF?style=flat-square&logo=stream&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-6B46C1?style=flat-square&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
 
 **Databases**  
@@ -37,6 +34,7 @@ Reach me at **bhavyagoyal30122005@gmail.com**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
 **Tools & Deployment**  
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -46,6 +44,5 @@ Reach me at **bhavyagoyal30122005@gmail.com**
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhavya-goyal-41bb53286/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat-square&logo=github)](https://github.com/Bhavyagoyal04)
