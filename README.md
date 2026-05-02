@@ -46,6 +46,7 @@ Reach me at **[bhavyagoyal30122005@gmail.com](mailto:bhavyagoyal30122005@gmail.c
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MCA0MCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yOS41IDMuNUwxNi41IDE1LjVsLTctNS41TDIgMTN2MTRsNy41IDMuNSA3LTUuNSAxMyAxMiA2LjUtM1Y2LjVsLTYuNS0zeiIvPjwvc3ZnPg==)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
