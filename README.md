@@ -24,7 +24,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```typescript
 const bhavya = {
@@ -35,13 +35,13 @@ const bhavya = {
   realtime  : ["WebRTC", "Socket.IO"],
   exploring : ["AI Integrations", "Real-time Systems"],
   contact   : "bhavyagoyal30122005@gmail.com",
-  funFact   : "I debug better after midnight 🌙",
+  funFact   : "I debug better after midnight",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@ const bhavya = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -95,7 +95,7 @@ const bhavya = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
