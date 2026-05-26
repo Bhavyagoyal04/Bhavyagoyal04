@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+real-time+systems+with+WebRTC+%26+Socket.IO;500%2B+DSA+problems+solved;Exploring+AI+integrations;MERN+Stack+%7C+Spring+Boot+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Building+with+WebRTC+%26+Socket.IO;500%2B+DSA+problems+solved;Exploring+AI+integrations;MERN+%7C+Spring+Boot+%7C+TypeScript" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -99,7 +99,7 @@ const bhavya = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bhavyagoyal04&theme=tokyonight&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bhavyagoyal04&theme=tokyonight&column=7&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
