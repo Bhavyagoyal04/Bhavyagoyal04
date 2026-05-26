@@ -10,14 +10,12 @@
 
 <br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-goyal-41bb53286/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavyagoyal04)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavyagoyal30122005@gmail.com)
 
 <br/>
 
-<!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhavyagoyal04&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -82,10 +80,13 @@ const bhavya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavyagoyal04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyagoyal04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavyagoyal04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyagoyal04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -99,15 +100,28 @@ const bhavya = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bhavyagoyal04&theme=tokyonight&column=7&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bhavyagoyal04&theme=tokyonight&column=4&no-frame=true&no-bg=true&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavyagoyal04/Bhavyagoyal04/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavyagoyal04/Bhavyagoyal04/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Bhavyagoyal04/Bhavyagoyal04/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+> To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
+
+---
+
 <div align="center">
 
-<!-- Capsule Render Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 *"First, solve the problem. Then, write the code."*
