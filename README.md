@@ -29,7 +29,7 @@ const bhavya = {
   education : "B.Tech CSE @ UPES Dehradun",
   role      : "Full-Stack Developer",
   dsa       : "500+ problems solved",
-  stack     : ["MERN", "Spring Boot", "TypeScript"],
+  stack     : ["MERN", "Spring Boot"],
   realtime  : ["WebRTC", "Socket.IO"],
   exploring : ["AI Integrations", "Real-time Systems"],
   contact   : "bhavyagoyal30122005@gmail.com",
