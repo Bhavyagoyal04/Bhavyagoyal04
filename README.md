@@ -96,30 +96,6 @@ const bhavya = {
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bhavyagoyal04&theme=tokyonight&column=4&no-frame=true&no-bg=true&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhavyagoyal04/Bhavyagoyal04/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhavyagoyal04/Bhavyagoyal04/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Bhavyagoyal04/Bhavyagoyal04/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
