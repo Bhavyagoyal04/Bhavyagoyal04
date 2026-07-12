@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Capsule Render Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhavya%20Goyal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Undergrad%20%40%20UPES%20Dehradun&descAlignY=60&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bhavya%20Goyal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20%26%20Systems&descAlignY=60&descAlign=50&descSize=18" />
 
-<!-- Animated Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Building+with+WebRTC+%26+Socket.IO;500%2B+DSA+problems+solved;Exploring+AI+integrations;MERN+%7C+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Currently+interning+%40+Xebia;Shipping+scalable+backends+%26+microservices;Real-time+systems+with+WebRTC+%26+Socket.IO;MERN+%7C+Spring+Boot+%7C+Cloud" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,82 +12,83 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavyagoyal04)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavyagoyal30122005@gmail.com)
 
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhavyagoyal04&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
+<br/>
 
-## About Me
-
-```typescript
-const bhavya = {
-  education : "B.Tech CSE @ UPES Dehradun",
-  role      : "Full-Stack Developer",
-  dsa       : "500+ problems solved",
-  stack     : ["MERN", "Spring Boot"],
-  realtime  : ["WebRTC", "Socket.IO"],
-  exploring : ["AI Integrations", "Real-time Systems"],
-  contact   : "bhavyagoyal30122005@gmail.com",
-  funFact   : "I debug better after midnight",
-};
+```yaml
+whoami:
+  based_in: Dehradun, India
+  studying: B.Tech Computer Science @ UPES
+  focus: backend systems, microservices, real-time infra
+  currently: building at Xebia
+  side_quest: 600+ DSA problems and counting
+  believes: "first solve the problem, then write the code"
 ```
 
----
+<br/>
 
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,ts,python&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,angular,materialui&theme=dark)](https://skillicons.dev)
-
-**Backend & Real-time**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,nginx&theme=dark)](https://skillicons.dev)
-
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-6B46C1?style=flat-square&logo=temporal&logoColor=white)
-
-**Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)](https://skillicons.dev)
-
-**Tools & Deployment**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark)](https://skillicons.dev)
-
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
+### Stack
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhavyagoyal04&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,js,ts,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,vercel,git,github,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+<br/>
+
+### What I've been building
+
+Most of my work lately sits at the intersection of backend architecture and real-time systems — designing microservices that talk to each other cleanly, shaving milliseconds off API latency, and getting video/audio to move reliably across a network. A few threads I keep coming back to:
+
+- **Distributed systems** — service discovery, API gateways, event-driven pipelines
+- **Real-time communication** — WebRTC, Socket.IO, live collaboration tools
+- **Applied AI** — using LLMs and OCR to automate genuinely tedious work, not just for the sake of it
+
+<br/>
+
+### Currently
+
+<div align="center">
+
+| | |
+|---|---|
+| Interning at | **Xebia** — backend + platform work |
+| Learning | Distributed systems at scale |
+| Open to | Interesting backend / full-stack roles |
+| Reach me at | bhavyagoyal30122005@gmail.com |
+
+</div>
+
+<br/>
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhavyagoyal04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyagoyal04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Bhavyagoyal04&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavyagoyal04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-*"First, solve the problem. Then, write the code."*
 
 </div>
