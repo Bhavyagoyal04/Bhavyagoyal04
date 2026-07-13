@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bhavya%20Goyal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20and%20Systems&descAlignY=60&descAlign=50&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Currently+interning+%40+Xebia;Shipping+scalable+backends+and+microservices;Real-time+systems+with+WebRTC+and+Socket.IO;MERN+%7C+Spring+Boot+%7C+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Shipping+scalable+backends+and+microservices;Real-time+systems+with+WebRTC+and+Socket.IO;MERN+%7C+Spring+Boot+%7C+Cloud" alt="Typing SVG" />
 </a>
 
 <br/>
