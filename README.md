@@ -24,7 +24,7 @@ whoami:
   studying: B.Tech Computer Science @ UPES
   focus: backend systems, microservices, real-time infra
   currently: building at Xebia
-  side_quest: 600+ DSA problems and counting
+  side_quest: 700+ DSA problems and counting
   believes: "first solve the problem, then write the code"
 ```
 
