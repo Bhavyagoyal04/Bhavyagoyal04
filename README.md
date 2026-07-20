@@ -72,8 +72,6 @@ Most of my work lately sits at the intersection of backend architecture and real
 
 <div align="center">
 
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Bhavyagoyal04&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
 
 <br/>
