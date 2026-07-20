@@ -72,9 +72,6 @@ Most of my work lately sits at the intersection of backend architecture and real
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhavyagoyal04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavyagoyal04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Bhavyagoyal04&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" />
